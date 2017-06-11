@@ -1,0 +1,6 @@
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\bin\Debug\EXCEPTION+LINQ.exe.config
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\bin\Debug\EXCEPTION+LINQ.exe
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\bin\Debug\EXCEPTION+LINQ.pdb
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\obj\Debug\EXCEPTION+LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\obj\Debug\EXCEPTION+LINQ.exe
+C:\Users\Олег\Documents\Visual Studio 2012\Projects\EXCEPTION+LINQ\EXCEPTION+LINQ\obj\Debug\EXCEPTION+LINQ.pdb
